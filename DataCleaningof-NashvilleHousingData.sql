@@ -1,9 +1,16 @@
-
+--Nashville-Housing-Data-Cleaning
 /* Cleaning Data in SQL Queries */
 
--- The dataset is available on https://www.kaggle.com/tmthyjames/nashville-housing-data
+--The dataset is available on https://www.kaggle.com/tmthyjames/nashville-housing-data
 
+/* The "Optimizing Data Accuracy: A Comprehensive Approach to Cleaning Nashville Housing Data" project aims to enhance the
+quality and reliability of housing data in Nashville, Tennessee. With the increasing demand for accurate information in the
+real estate market, ensuring the integrity of housing data is crucial for making informed decisions.
 
+This project focuses on developing an efficient and systematic data cleaning process to address common issues such as 
+missing values, outliers, inconsistencies, and data entry errors present in Nashville's housing dataset. By
+applying advanced data cleaning techniques and algorithms, we aim to eliminate inaccuracies, 
+standardize data formats, and ensure data integrity*/
 
 
 Select *
